@@ -1,0 +1,9 @@
+
+
+#add_compile_definitions(DEF_cuGetProcAddress_v2)
+#add_compile_definitions(DEF_cuGraphAddKernelNode_v2)
+#add_compile_definitions(DEF_cuGraphKernelNodeGetParams_v2)
+#add_compile_definitions(DEF_cuGraphKernelNodeSetParams_v2)
+#add_compile_definitions(DEF_nvmlDeviceGetMemoryInfo_v2)
+
+add_compile_definitions(DEF_NVML_114)
